@@ -1,5 +1,6 @@
 # EngineSpeedMatcher
 Engine Speed Matcher - Speed Matcher for your Android device
+<p> This is highly experimental.  At the moment it is just a clone of Engine Driver.  Don't bother downloading it.</p>
 <p>This free Android application connects to a <a
         href="https://jmri.org/help/en/package/jmri/jmrit/withrottle/UserInterface.shtml"
         target="_blank">WiThrottle Server</a>. Supported servers include <a href="https://jmri.org"
@@ -12,6 +13,4 @@ Engine Speed Matcher - Speed Matcher for your Android device
         NCE)</a>.<br />
     Once connected, you can speed match your locomotives.</p>
 
-<p>This app is based on the Engine Driver Throttle app. For more details of Engine Driver, visit <a href="https://enginedriver.mstevetodd.com" target="_blank">[EngineDriver&nbsp;site]</a>.
-    For screenshots, click <a href="https://enginedriver.mstevetodd.com/screenshots"
-                              target="_blank">[here]</a>.</p>
+<p>This app is based on the Engine Driver Throttle app. For more details of Engine Driver, visit <a href="https://enginedriver.mstevetodd.com" target="_blank">[EngineDriver&nbsp;site]</a>.</p>
