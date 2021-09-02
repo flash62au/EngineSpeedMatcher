@@ -22,7 +22,7 @@
     <string name="function_buttons">botões_função</string>
     <string name="introMenu">Introdução</string>
 
-    <string name="app_description">Engine Driver - Controlador para o seu fone Android. Este aplicativo pode conectaro ao JMRI, MRC ou servidor Digitrax WiThrottle, e controlar seus desvios e locomotivas. Velocidade, direção, e até 29 funcções DCC são suportadas para uma ou duas locomotivas.</string>
+    <string name="app_description">Engine Speed Matcher - Controlador para o seu fone Android. Este aplicativo pode conectaro ao JMRI, MRC ou servidor Digitrax WiThrottle, e controlar seus desvios e locomotivas. Velocidade, direção, e até 29 funcções DCC são suportadas para uma ou duas locomotivas.</string>
     <string name="app_name_intro">Introdução</string>
     <string name="app_name_connect">Conexão ao Servidor</string>
     <string name="app_name_throttle">Controlador</string>
@@ -43,8 +43,8 @@
     <string name="gamepad1_test">Teste Gamepad 1</string>
     <string name="gamepad2_test">Teste Gamepad 2</string>
     <string name="gamepad3_test">Teste Gamepad 3</string>
-    <string name="notification_title">Engine Driver está rodando</string>
-    <string name="notification_text">Aperte para reabrir Engine Driver</string>
+    <string name="notification_title">Engine Speed Matcher está rodando</string>
+    <string name="notification_text">Aperte para reabrir Engine Speed Matcher</string>
     <string name="host_ip">Nome Host ou Endereço</string>
     <string name="port">Porta</string>
     <string name="loco_address">Endereço Locomotiva</string>
@@ -125,7 +125,7 @@
     <string name="yes">Sim</string>
     <string name="no">Não</string>
     <string name="cancel">Cancelar</string>
-    <string name="exit_text">Sair de Engine Driver?</string>
+    <string name="exit_text">Sair de Engine Speed Matcher?</string>
     <string name="exit_title">Sair</string>
     <string name="steal_text">Apropriar-se do endereço %1$s?</string>
     <string name="steal_title">Apropriar-se </string>
@@ -138,7 +138,7 @@
     <string name="logviewerSave">Comece a gravar para arquivo</string>
 
     <string name="prefTitle">Preferências</string>
-    <string name="prefSummary">Preferências para Engine Driver</string>
+    <string name="prefSummary">Preferências para Engine Speed Matcher</string>
     <string name="preferences">Preferências</string>
     <string name="prefSwipeUpDownTitle">Preferências Deslizar para cima-baixo</string>
     <string name="prefSwipeUpDownSummary">Opções deslizamento cima-baixo na tela Controlador</string>
@@ -267,7 +267,7 @@
     <string name="prefWebViewLocationSummary">Incluir vista web no painel do Controlador</string>
     <string name="prefSelectLocoTitle">Selecionar Preferências Locomotiva</string>
     <string name="prefSelectiveLeadSoundTitle">Som seletivo da Unidade de Frente?</string>
-    <string name="prefSelectiveLeadSoundSummary">Enviar função Buzina/Sino somente para a unidade de frente de um Comboio Engine Driver</string>
+    <string name="prefSelectiveLeadSoundSummary">Enviar função Buzina/Sino somente para a unidade de frente de um Comboio Engine Speed Matcher</string>
     <string name="prefSelectiveLeadSoundF1Title">Sempre trate F1 como som</string>
     <string name="prefSelectiveLeadSoundF1Summary">Para a opção \'Selective Lead Unit Sound \'</string>
     <string name="prefSelectiveLeadSoundF2Title">Sempre trate F2 como som</string>

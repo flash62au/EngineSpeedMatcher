@@ -32,7 +32,7 @@
                 android:layout_gravity="left"
                 android:layout_marginStart="4dp"
                 android:layout_marginLeft="4dp"
-                android:text="Engine Driver"
+                android:text="Engine Speed Matcher"
                 android:textColor="#fff"
                 android:textSize="8dp"
                 android:textStyle="italic" />
@@ -85,7 +85,7 @@
                 android:layout_gravity="center"
                 android:layout_marginStart="0dp"
                 android:layout_marginLeft="0dp"
-                android:text="Engine Driver"
+                android:text="Engine Speed Matcher"
                 android:textColor="#fff"
                 android:textSize="12dp"
                 android:textStyle="bold" />

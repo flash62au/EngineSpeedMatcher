@@ -24,7 +24,7 @@
     <string name="function_buttons">Touche de fonction</string>
 
 
-    <string name="app_description">Engine Driver - Application pour Android. Cette application peut se connecter à un serveur JMRI, MRC ou DigiTrax WiThrottle, et à son tour contrôler vos locomotives. La vitesse, la direction et jusqu à 29 fonctions DCC sont prises en charge pour une ou deux locomotives.</string>
+    <string name="app_description">Engine Speed Matcher - Application pour Android. Cette application peut se connecter à un serveur JMRI, MRC ou DigiTrax WiThrottle, et à son tour contrôler vos locomotives. La vitesse, la direction et jusqu à 29 fonctions DCC sont prises en charge pour une ou deux locomotives.</string>
 
     <string name="app_name_connect">Connection au Serveur</string>
     <string name="app_name_throttle">régulateur</string>
@@ -45,8 +45,8 @@
     <string name="gamepad1_test">Gamepad 1 Test</string>
     <string name="gamepad2_test">Gamepad 2 Test</string>
     <string name="gamepad3_test">Gamepad 3 Test</string>
-    <string name="notification_title">Engine Driver Actif</string>
-    <string name="notification_text">Appuyez pour rouvrir Engine Driver</string>
+    <string name="notification_title">Engine Speed Matcher Actif</string>
+    <string name="notification_text">Appuyez pour rouvrir Engine Speed Matcher</string>
     <string name="host_ip">Nom ou adresse du serveur</string>
     <string name="port">Port</string>
     <string name="loco_address">Adresse de locomotive</string>
@@ -123,12 +123,12 @@
     <string name="no">Non</string>
 
     <string name="cancel">Annulation</string>
-    <string name="exit_text">Sortir d Engine Driver ?</string>
+    <string name="exit_text">Sortir d Engine Speed Matcher ?</string>
     <string name="exit_title">Sortie</string>
     <string name="steal_text">Abandonner adresse %1$s?</string>
     <string name="steal_title">Abandon</string>
     <string name="prefTitle">Préférences</string>
-    <string name="prefSummary">Préférences pour Engine Driver</string>
+    <string name="prefSummary">Préférences pour Engine Speed Matcher</string>
     <string name="preferences">Préférences</string>
     <string name="prefSwipeUpDownTitle">Faire glisser Haut vers Bas les préférences</string>
     <string name="prefSwipeUpDownSummary">Options du Glisser Haut vers Bas sur régulateur</string>
@@ -272,7 +272,7 @@
     <string name="prefWebViewLocationSummary">Intégrer la vue Web au régulateur</string>
     <string name="prefSelectLocoTitle">Choix des préférences Loco.</string>
     <string name="prefSelectiveLeadSoundTitle">Locomotive selectionnée en tete UM?</string>
-    <string name="prefSelectiveLeadSoundSummary">Envoi des commandes klaxon,cloche,sifflet uniquement sur la tête de l UM  Engine Driver. (uniquement pour les fonctions ayant un \'libellé\' comprenant \'klaxon\', \'cloche\' ou \'sifflet\' dans le libellé.)</string>
+    <string name="prefSelectiveLeadSoundSummary">Envoi des commandes klaxon,cloche,sifflet uniquement sur la tête de l UM  Engine Speed Matcher. (uniquement pour les fonctions ayant un \'libellé\' comprenant \'klaxon\', \'cloche\' ou \'sifflet\' dans le libellé.)</string>
     <string name="prefSelectiveLeadSoundF1Title">Toujours traiter F1 comme fonction Son</string>
     <string name="prefSelectiveLeadSoundF1Summary">Pour la \'Locomotive sélectionnée en tete UM \' option</string>
     <string name="prefSelectiveLeadSoundF2Title">Toujours traiter F2 comme fonction son</string>
@@ -438,7 +438,7 @@
     <string name="prefAccelerometerShakeSummary">Options quand le terminal est agité</string>
 
     <string name="prefAccelerometerShakeThresholdTitle">Seuil de mouvement</string>
-    <string name="prefAccelerometerShakeThresholdSummary">Seuil à partir duquel le mouvement sera pris en compte. (1.5&#8211;3.5)  Une valeur basse correspond à un faible mouvement. \Nécessite un redémarrage d Engine Driver pour prise en compte si modifié.</string>
+    <string name="prefAccelerometerShakeThresholdSummary">Seuil à partir duquel le mouvement sera pris en compte. (1.5&#8211;3.5)  Une valeur basse correspond à un faible mouvement. \Nécessite un redémarrage d Engine Speed Matcher pour prise en compte si modifié.</string>
 
     <string name="functionButton00DefaultValue">Lampes</string>
     <string name="functionButton01DefaultValue">Cloche</string>
@@ -558,7 +558,7 @@
     <string name="toastNumThrottles">L affichage choisi ne supporte pas autant de régulateurs. Limitation à %1$s.</string>
 
     <!--    Toast messages for the Log Viewer Activity -->
-    <string name="toastSaveLogFile">Enregistrement des évènements démarré dans le fichier %1$s. La journalisation se poursuivra jusqu à ce que vous quittiez l application Engine Driver.</string>
+    <string name="toastSaveLogFile">Enregistrement des évènements démarré dans le fichier %1$s. La journalisation se poursuivra jusqu à ce que vous quittiez l application Engine Speed Matcher.</string>
 
     <string name="prefTtsTitle">Réponse vocale</string>
     <string name="prefTtsSummary">Annonce évènements clé</string>
@@ -622,7 +622,7 @@
 
     <string name="prefLocaleTitle">Localisation</string>
     <string name="prefLocaleSummary">Langue à utiliser.\nATTENTION! Les touches de directions seront réinitialisées.</string>
-<!--    <string name="toastPreferencesLocaleChange">Engine Driver redémarré avec la langue choisie.</string> -->
+<!--    <string name="toastPreferencesLocaleChange">Engine Speed Matcher redémarré avec la langue choisie.</string> -->
     <string name="prefDirectionButtonLongPressDelayTitle">Delai pour appui long sur touches de direction</string>
     <string name="prefDirectionButtonLongPressDelaySummary">Durée en millisecondes pour appui long sur touches de direction.</string>
 
@@ -652,16 +652,16 @@
     <string name="prefConnectTimeoutMsSummary">Définition du delai de connexion initiale en secondes</string>
     <string name="prefSocketTimeoutMsTitle">Delai du socket</string>
     <string name="prefSocketTimeoutMsSummary">Definition en ms du delai de lecture Socket</string>
-    <string name="permissionsReadRecentConnections">Engine Driver nécessite un accès au STOCKAGE pour lire les connexions récentes.</string>
-    <string name="permissionsStoreRecentConnections">Engine Driver nécessite un accès au STOCKAGE pour sauver les connexions récentes.</string>
-    <string name="permissionsClearRecentConnections">Engine Driver nécessite un accès au STOCKAGE pour effacer les connexions récentes.</string>
-    <string name="permissionsReadPreferences">Engine Driver nécessite un accès au STOCKAGE pour lire les préférences</string>
-    <string name="permissionsStorePreferences">Engine Driver nécessite un accès au STOCKAGE pour sauver les préférences</string>
-    <string name="permissionsClearPreferences">Engine Driver nécessite un accès au STOCKAGE pour effacer les préférences</string>
-    <string name="permissionsReadPhoneState">Engine Driver nécessite un accès au TELEPHONE pour se mettre en pause en cas de communications téléphoniques.</string>
-    <string name="permissionsReadFunctionSettings">Engine Driver nécessite un accès au STOCKAGE pour lire les fonctions</string>
-    <string name="permissionsStoreFunctionSettings">Engine Driver nécessite un accès au STOCKAGE pour sauver les fonctions</string>
-    <string name="permissionsWriteSettings">Engine Driver nécessite un accès ECRITURE pour changer la luminosité Ecran</string>
+    <string name="permissionsReadRecentConnections">Engine Speed Matcher nécessite un accès au STOCKAGE pour lire les connexions récentes.</string>
+    <string name="permissionsStoreRecentConnections">Engine Speed Matcher nécessite un accès au STOCKAGE pour sauver les connexions récentes.</string>
+    <string name="permissionsClearRecentConnections">Engine Speed Matcher nécessite un accès au STOCKAGE pour effacer les connexions récentes.</string>
+    <string name="permissionsReadPreferences">Engine Speed Matcher nécessite un accès au STOCKAGE pour lire les préférences</string>
+    <string name="permissionsStorePreferences">Engine Speed Matcher nécessite un accès au STOCKAGE pour sauver les préférences</string>
+    <string name="permissionsClearPreferences">Engine Speed Matcher nécessite un accès au STOCKAGE pour effacer les préférences</string>
+    <string name="permissionsReadPhoneState">Engine Speed Matcher nécessite un accès au TELEPHONE pour se mettre en pause en cas de communications téléphoniques.</string>
+    <string name="permissionsReadFunctionSettings">Engine Speed Matcher nécessite un accès au STOCKAGE pour lire les fonctions</string>
+    <string name="permissionsStoreFunctionSettings">Engine Speed Matcher nécessite un accès au STOCKAGE pour sauver les fonctions</string>
+    <string name="permissionsWriteSettings">Engine Speed Matcher nécessite un accès ECRITURE pour changer la luminosité Ecran</string>
     <string name="permissionsWriteSettingsAdditional">- Cliquer sur le bouton ci dessous.\nAutoriser la permission.\n-Cliquer \'Arrière\' pour retourner ici.</string>
     <string name="permissionsWriteSettingsAdditional2">Ignorer ceci si vous ne voulez pas modifier la luminosité avec Engine Driver.</string>
     <string name="permissionsACCESS_FINE_LOCATION">Engine Driver nécessite l autorisation d acceder à une localisation précise pour récupere le SSID WiFi.</string>

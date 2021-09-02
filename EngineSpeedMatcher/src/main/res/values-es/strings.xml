@@ -22,7 +22,7 @@
     <string name="function_buttons">botones_de_funciones</string>
     <string name="introMenu">Introducción</string>
 
-    <string name="app_description">Engine Driver - Un Controlador para tu teléfono Android. Esta aplicación permite conectar a servidores WiThrottle como JMRI, MRC o Digitrax, y tripular tus Locomotoras. Velocidad, dirección, y mas de 29 funciones DCC están soportadas para una o dos Locomotoras</string>
+    <string name="app_description">Engine Speed Matcher - Un Controlador para tu teléfono Android. Esta aplicación permite conectar a servidores WiThrottle como JMRI, MRC o Digitrax, y tripular tus Locomotoras. Velocidad, dirección, y mas de 29 funciones DCC están soportadas para una o dos Locomotoras</string>
     <string name="app_name_intro">Introducción</string>
     <string name="app_name_connect">Conectar al servidor</string>
     <string name="app_name_throttle">Controlador</string>
@@ -43,8 +43,8 @@
     <string name="gamepad1_test">Prueba 1 de gamepad</string>
     <string name="gamepad2_test">Prueba 2 de gamepad</string>
     <string name="gamepad3_test">Prueba 3 de gamepad</string>
-    <string name="notification_title">Engine Driver está en ejecución</string>
-    <string name="notification_text">Presionar para reabrir Engine Driver</string>
+    <string name="notification_title">Engine Speed Matcher está en ejecución</string>
+    <string name="notification_text">Presionar para reabrir Engine Speed Matcher</string>
     <string name="host_ip">Nombre del Host o Dirección</string>
     <string name="port">Puerto</string>
     <string name="loco_address">Dirección de Locomotora</string>
@@ -120,12 +120,12 @@
     <string name="volume_indicator">v</string>
     <string name="yes">Sí</string>
     <string name="no">No</string>
-    <string name="exit_text">¿Salir del Engine Driver?</string>
+    <string name="exit_text">¿Salir del Engine Speed Matcher?</string>
     <string name="exit_title">Salir</string>
     <string name="steal_text">Coger dirección %1$s?</string>
     <string name="steal_title">Coge</string>
     <string name="prefTitle">Ajustes</string>
-    <string name="prefSummary">Ajustes para el Engine Driver </string>
+    <string name="prefSummary">Ajustes para el Engine Speed Matcher</string>
     <string name="preferences">Ajustes</string>
     <string name="prefSwipeUpDownTitle">Desplaza hacia arriba-abajo las preferencias</string>
     <string name="prefSwipeUpDownSummary">Opciones para deslizar el dedo arriba-abajo en la pantalla del Controlador</string>

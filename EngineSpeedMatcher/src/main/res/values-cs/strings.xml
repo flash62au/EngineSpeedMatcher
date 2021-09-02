@@ -24,30 +24,30 @@
     <string name="function_buttons">Funkce tlačítko</string>
     <string name="introMenu">Úvodní/Nastavení Průvodce</string>
 
-    <string name="app_description">Engine Driver – Ovladač pro váš telefon Android. Tato aplikace se může připojit k JMRI, MRC nabo DigiTrax WiThrottle serveru a může řídit vaše lokomotivy. Rychlost, směr a až 29 DCC funkcí je podporováno pro jednu až šest lokomotiv.</string>
-    <string name="app_name_intro">Úvod – Engine Driver</string>
-    <string name="app_name_connect">Připojet se na server – Engine Driver</string>
-    <string name="app_name_throttle">Ovladač – Engine Driver</string>
+    <string name="app_description">Engine Speed Matcher – Ovladač pro váš telefon Android. Tato aplikace se může připojit k JMRI, MRC nabo DigiTrax WiThrottle serveru a může řídit vaše lokomotivy. Rychlost, směr a až 29 DCC funkcí je podporováno pro jednu až šest lokomotiv.</string>
+    <string name="app_name_intro">Úvod – Engine Speed Matcher</string>
+    <string name="app_name_connect">Připojet se na server – Engine Speed Matcher</string>
+    <string name="app_name_throttle">Ovladač – Engine Speed Matcher</string>
     <string name="app_name_throttle_short">Ovladač</string>
-    <string name="app_name_power_control">Ovládání napájení – Engine Driver</string>
-    <string name="app_name_reconnect_status">Stav znovupřipojení – Engine Driver</string>
-    <string name="app_name_routes">Trasy – Engine Driver</string>
+    <string name="app_name_power_control">Ovládání napájení – Engine Speed Matcher</string>
+    <string name="app_name_reconnect_status">Stav znovupřipojení – Engine Speed Matcher</string>
+    <string name="app_name_routes">Trasy – Engine Speed Matcher</string>
     <string name="app_name_routes_short">Trasy</string>
-    <string name="app_name_turnouts">Výhybky – Engine Driver</string>
+    <string name="app_name_turnouts">Výhybky – Engine Speed Matcher</string>
     <string name="app_name_turnouts_short">Výhybky</string>
-    <string name="app_name_about">O aplikaci – Engine Driver</string>
-    <string name="app_name_functions">Výchozí nastavení funkcí – Engine Driver</string>
-    <string name="app_name_preferences">Předvolby – Engine Driver</string>
-    <string name="app_name_select_loco">Vybrat/Vzdát se Lokomotivy – Engine Driver</string>
-    <string name="app_name_ConsistEdit">Upravit Soupravy – Engine Driver</string>
-    <string name="app_name_ConsistLightsEdit">Souprava světla – Engine Driver</string>
-    <string name="app_name_gamepad_test">Gamepad Test – Engine Driver</string>
+    <string name="app_name_about">O aplikaci – Engine Speed Matcher</string>
+    <string name="app_name_functions">Výchozí nastavení funkcí – Engine Speed Matcher</string>
+    <string name="app_name_preferences">Předvolby – Engine Speed Matcher</string>
+    <string name="app_name_select_loco">Vybrat/Vzdát se Lokomotivy – Engine Speed Matcher</string>
+    <string name="app_name_ConsistEdit">Upravit Soupravy – Engine Speed Matcher</string>
+    <string name="app_name_ConsistLightsEdit">Souprava světla – Engine Speed Matcher</string>
+    <string name="app_name_gamepad_test">Gamepad Test – Engine Speed Matcher</string>
     <string name="gamepad_test_menu">\≡ Gamepad Test</string>
     <string name="gamepad1_test">Gamepad 1 Test</string>
     <string name="gamepad2_test">Gamepad 2 Test</string>
     <string name="gamepad3_test">Gamepad 3 Test</string>
-    <string name="notification_title">Engine Driver běží</string>
-    <string name="notification_text">Klepnutím znovu otevřete Engine Driver</string>
+    <string name="notification_title">Engine Speed Matcher běží</string>
+    <string name="notification_text">Klepnutím znovu otevřete Engine Speed Matcher</string>
     <string name="host_ip">Host Name nebo Adresa</string>
     <string name="port">Port</string>
     <string name="loco_address">Adresa lokomotivy</string>
@@ -141,7 +141,7 @@
     <string name="no">Ne</string>
     <string name="ok">"Ok"</string>
     <string name="cancel">"Zrušit"</string>
-    <string name="exit_text">Ukončit Engine Driver?</string>
+    <string name="exit_text">Ukončit Engine Speed Matcher?</string>
     <string name="exit_title">Konec</string>
     <string name="steal_text">Adresa k ukradení %1$s?</string>
     <string name="steal_title">Ukrást</string>
@@ -155,7 +155,7 @@
     <string name="logviewerSave">Spustit ukládání do souboru</string>
 
     <string name="prefTitle">Předvolby</string>
-    <string name="prefSummary">Předvolby pro Engine Driver</string>
+    <string name="prefSummary">Předvolby pro Engine Speed Matcher</string>
     <string name="preferences">Předvolby</string>
     <string name="prefSwipeUpDownTitle">Předvolby přetážení prstem</string>
     <string name="prefSwipeUpDownSummary">Volby pro tažení prstem na obrazovce ovladače.</string>
@@ -476,7 +476,7 @@
     <string name="prefThrottleImportExportSummary">Předvolby Importu/Exportu/Resetu</string>
 
     <string name="prefImportExportTitle">Import, Export nebo Reset</string>
-    <string name="prefImportExportSummary">Předvolby \'Import\' nebo \'Export\' do složky \'engine_driver/\' nebo \'Reset\'.\nObjeví se bezprostředně při výběru volby.\nVarování! S \'Reset\' a \'Import\' se bude Engine Driver restartovat!\n(Můžete přenést předvolby na jiný telefon kopírováním souboru.)</string>
+    <string name="prefImportExportSummary">Předvolby \'Import\' nebo \'Export\' do složky \'engine_driver/\' nebo \'Reset\'.\nObjeví se bezprostředně při výběru volby.\nVarování! S \'Reset\' a \'Import\' se bude Engine Speed Matcher restartovat!\n(Můžete přenést předvolby na jiný telefon kopírováním souboru.)</string>
 
 
     <string name="prefImportExportLocoListTitle">Zahrnout seznam Nedávné lokomotivy</string>
@@ -541,7 +541,7 @@
     <string name="prefTickMarksOnSlidersSummary">Zobrazit nebo skrýt zašktnuté značky na pozadí posuvníků rychlosti.</string>
 
     <string name="prefThemeTitle">Téma/Styl</string>
-    <string name="prefThemeSummary">Téma aplikace. Varování! Engine Driver se ihned restartuje!</string>
+    <string name="prefThemeSummary">Téma aplikace. Varování! Engine Speed Matcher se ihned restartuje!</string>
 
 
     <string name="prefHideDemoServerTitle">Skrýt Demo Server</string>
@@ -562,7 +562,7 @@
 
 
     <string name="prefAccelerometerShakeThresholdTitle">Práh třepání</string>
-    <string name="prefAccelerometerShakeThresholdSummary">Práh při kterém se bude třepání registrovat. (1,5&#8211;3,5) Nižší hodnota bude reagovat na jemnější akci.\nVyžaduje restart Engine Driver po změně, aby se změny projevily.</string>
+    <string name="prefAccelerometerShakeThresholdSummary">Práh při kterém se bude třepání registrovat. (1,5&#8211;3,5) Nižší hodnota bude reagovat na jemnější akci.\nVyžaduje restart Engine Speed Matcher po změně, aby se změny projevily.</string>
 
 
     <string name="prefLocaleTitle">Lokalizace</string>

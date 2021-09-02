@@ -24,7 +24,7 @@
     <string name="function_buttons">Funktionstasten</string>
     <string name="introMenu">Einführung</string>
 
-    <string name="app_description">Engine Driver - Fahrpult für ihr Android Telefon. Diese Anwendung kann eine Verbindung mit einem JMRI, MRC oder Digitrax WiThrottle Server erstellen und ermöglicht damit die Steuerung von Lokomotiven. Geschwindigkeit, Fahrrichtung und bis zu 29 DCC Funktionen werden für eine oder zwei Lokomotiven unterstützt.</string>
+    <string name="app_description">Engine Speed Matcher - Fahrpult für ihr Android Telefon. Diese Anwendung kann eine Verbindung mit einem JMRI, MRC oder Digitrax WiThrottle Server erstellen und ermöglicht damit die Steuerung von Lokomotiven. Geschwindigkeit, Fahrrichtung und bis zu 29 DCC Funktionen werden für eine oder zwei Lokomotiven unterstützt.</string>
     <string name="app_name_intro">Einführung</string>
     <string name="app_name_connect">Verbinden mit Server</string>
     <string name="app_name_throttle">Fahrregler</string>
@@ -45,8 +45,8 @@
     <string name="gamepad1_test">Gamepad 1 Test</string>
     <string name="gamepad2_test">Gamepad 2 Test</string>
     <string name="gamepad3_test">Gamepad 3 Test</string>
-    <string name="notification_title">Engine Driver läuft</string>
-    <string name="notification_text">Antippen um Engine Driver wieder zu öffnen</string>
+    <string name="notification_title">Engine Speed Matcher läuft</string>
+    <string name="notification_text">Antippen um Engine Speed Matcher wieder zu öffnen</string>
     <string name="host_ip">Hostname oder Adresse</string>
     <string name="port">Port</string>
     <string name="loco_address">Lokadresse</string>
@@ -79,7 +79,7 @@
     <string name="loco_direction_right_extra">"\u00B7R\u00B7"</string>
     <string name="locoPressToSelect">Auswahl</string>
     <string name="powerWillNotWorkTitle">Funktioniert nicht!</string>
-    <string name="powerWillNotWork">Stromschalter - Engine Driver</string>
+    <string name="powerWillNotWork">Stromschalter - Engine Speed Matcher</string>
     <string name="current_locos">Aktuell gewählte Loks</string>
     <string name="release">Freigeben</string>
     <string name="releaseThrottleNumber">Fahrregler %1$s freigeben</string>
@@ -120,12 +120,12 @@
     <string name="volume_indicator">v</string>
     <string name="yes">Ja</string>
     <string name="no">Nein</string>
-    <string name="exit_text">Engine Driver beenden?</string>
+    <string name="exit_text">Engine Speed Matcher beenden?</string>
     <string name="exit_title">Beenden</string>
     <string name="steal_text">Adresse %1$s stehlen?</string>
     <string name="steal_title">Stehlen</string>
     <string name="prefTitle">Voreinstellungen</string>
-    <string name="prefSummary">Voreinstellungen für Engine Driver</string>
+    <string name="prefSummary">Voreinstellungen für Engine Speed Matcher</string>
     <string name="preferences">Voreinstellungen</string>
     <string name="prefSwipeUpDownTitle">Voreinstellungen für Wischen nach oben/unten</string>
     <string name="prefSwipeUpDownSummary">Optionen für Wischen nach oben/unten im Fahrregler.</string>
@@ -242,7 +242,7 @@
     <string name="prefNumOfThrottles">Anzahl der Fahrregler</string>
     <string name="prefNumOfThrottlesSummary">Wähle wieviele Fahrregler angezeigt werden sollen.</string>
     <string name="prefThrottleScreenTypeTitle">Fahrregler Anzeigetyp</string>
-    <string name="prefThrottleScreenTypeSummary">Welchen Typ Anzeige für Fahrregler verwenden.\nWARNUNG! Engine Driver wird sofort neu starten!</string>
+    <string name="prefThrottleScreenTypeSummary">Welchen Typ Anzeige für Fahrregler verwenden.\nWARNUNG! Engine Speed Matcher wird sofort neu starten!</string>
     <string name="prefMaximumThrottleTitle">Maximale Fahrregler Prozente</string>
 
     <string name="prefMaximumThrottleSummary">Maximal erlaubter Wert für Geschwindigkeitsschieber in %</string>
@@ -431,7 +431,7 @@
     <string name="prefAccelerometerShakeSummary">Optionen für das Schütteln des Gerätes</string>
 <!--    <string name="prefAccelerometerShakeDefaultValue">Keine</string>  -->
     <string name="prefAccelerometerShakeThresholdTitle">Schütteln Schwellwert</string>
-    <string name="prefAccelerometerShakeThresholdSummary">Schwellwert bei dem Schütteln erkannt wird. (1.5&#8211;3.5) Kleiner Wert reagiert auf eine leichte Bewegung.\n Erfordert Neustart von Engine Driver nach Änderung um wirksam zu werden.</string>
+    <string name="prefAccelerometerShakeThresholdSummary">Schwellwert bei dem Schütteln erkannt wird. (1.5&#8211;3.5) Kleiner Wert reagiert auf eine leichte Bewegung.\n Erfordert Neustart von Engine Speed Matcher nach Änderung um wirksam zu werden.</string>
 
     <string name="functionButton00DefaultValue">Licht</string>
     <string name="functionButton01DefaultValue">Glocke</string>
@@ -540,7 +540,7 @@
     <string name="toastSelectLocoConfirmClear">Bestätige das Entfernen aller Einträge in der Liste kürzlich verwendeter Loks durch ERNEUTES Drücken des Knopfs \'Lösche Liste\'.  </string>
 
     <!--    Toast messages for the Log Viewer Activity -->
-    <string name="toastSaveLogFile">Protokollierung in Datei %1$s gestartet. Die Protokollierung wird fortgesetzt, bis Sie die App "Engine Driver" beenden.</string>
+    <string name="toastSaveLogFile">Protokollierung in Datei %1$s gestartet. Die Protokollierung wird fortgesetzt, bis Sie die App "Engine Speed Matcher" beenden.</string>
 
     <string name="prefTtsTitle">Sprachausgabe</string>
     <string name="prefTtsSummary">Schlüsselereignisse ansagen</string>
@@ -602,7 +602,7 @@
     <string name="prefLocaleTitle">Lokalisierung</string>
     <string name="prefLocaleSummary">Zu benützende Sprache. WARNUNG! Die Bezeichnungen der Richtungsknöpfe werden zurückgesetzt.</string>
 <!--
-    <string name="toastPreferencesLocaleChange">Engine Driver startete neu mit gewählter Sprache.</string>
+    <string name="toastPreferencesLocaleChange">Engine Speed Matcher startete neu mit gewählter Sprache.</string>
 -->
     <string name="prefDirectionButtonLongPressDelayTitle">Verzögerung für langes Drücken der Richtungsknöpfe</string>
     <string name="prefDirectionButtonLongPressDelaySummary">Wieviele Millisekunden machen ein langes Drücken der Richtungsknöpfe aus.</string>
@@ -680,17 +680,17 @@
     <string name="app_name_throttle_kids_enabled">Timer bereit</string>
     <string name="app_name_throttle_kids_ended">Timer beendet</string>
 
-    <string name="permissionsReadRecentConnections">Engine Driver benötigt STORAGE-Berechtigungen zum Lesen der letzten Verbindungen.</string>
-    <string name="permissionsStoreRecentConnections">Engine Driver benötigt STORAGE-Berechtigungen zum Speichern der letzten Verbindungen.</string>
-    <string name="permissionsClearRecentConnections">Engine Driver benötigt STORAGE-Berechtigungen, um die letzten Verbindungen zu löschen.</string>
-    <string name="permissionsReadPreferences">Engine Driver benötigt STORAGE-Berechtigungen zum Lesen der Einstellungen.</string>
-    <string name="permissionsStorePreferences">Engine Driver benötigt STORAGE-Berechtigungen zum Speichern von Einstellungen.</string>
-    <string name="permissionsClearPreferences">Engine Driver benötigt STORAGE-Berechtigungen, um die Einstellungen zu löschen.</string>
-    <string name="permissionsReadPhoneState">Engine Driver benötigt PHONE-Berechtigungen, um Vorgänge während eines Anrufs anzuhalten.</string>
-    <string name="permissionsReadFunctionSettings">Engine Driver benötigt STORAGE-Berechtigungen zum Lesen der Funktionseinstellungen.</string>
-    <string name="permissionsStoreFunctionSettings">Engine Driver benötigt SPEICHER-Berechtigungen zum Speichern von Funktionseinstellungen.</string>
+    <string name="permissionsReadRecentConnections">Engine Speed Matcher benötigt STORAGE-Berechtigungen zum Lesen der letzten Verbindungen.</string>
+    <string name="permissionsStoreRecentConnections">Engine Speed Matcher benötigt STORAGE-Berechtigungen zum Speichern der letzten Verbindungen.</string>
+    <string name="permissionsClearRecentConnections">Engine Speed Matcher benötigt STORAGE-Berechtigungen, um die letzten Verbindungen zu löschen.</string>
+    <string name="permissionsReadPreferences">Engine Speed Matcher benötigt STORAGE-Berechtigungen zum Lesen der Einstellungen.</string>
+    <string name="permissionsStorePreferences">Engine Speed Matcher benötigt STORAGE-Berechtigungen zum Speichern von Einstellungen.</string>
+    <string name="permissionsClearPreferences">Engine Speed Matcher benötigt STORAGE-Berechtigungen, um die Einstellungen zu löschen.</string>
+    <string name="permissionsReadPhoneState">Engine Speed Matcher benötigt PHONE-Berechtigungen, um Vorgänge während eines Anrufs anzuhalten.</string>
+    <string name="permissionsReadFunctionSettings">Engine Speed Matcher benötigt STORAGE-Berechtigungen zum Lesen der Funktionseinstellungen.</string>
+    <string name="permissionsStoreFunctionSettings">Engine Speed Matcher benötigt SPEICHER-Berechtigungen zum Speichern von Funktionseinstellungen.</string>
     <string name="permissionsVIBRATE">Lokomotivführer muss VIBRATE Berechtigungen zusätzliches Feedback geben.</string>
-    <string name="permissionsConnectToServer">Engine Driver benötigt STORAGE-Berechtigungen zum Speichern der letzten Verbindungen und PHONE-Berechtigungen, um Vorgänge während eines Anrufs anzuhalten.</string>
+    <string name="permissionsConnectToServer">Engine Speed Matcher benötigt STORAGE-Berechtigungen zum Speichern der letzten Verbindungen und PHONE-Berechtigungen, um Vorgänge während eines Anrufs anzuhalten.</string>
     <string name="permissionsGotoAppSettings">Bitte aktivieren Sie diese Berechtigungen in den App-Einstellungen.</string>
     <string name="permissionsAppSettingsButton">App Einstellungen</string>
     <string name="permissionsRetryButton">Wiederholen</string>

@@ -22,7 +22,7 @@
     <string name="function_buttons">botons_de_funcions</string>
     <string name="introMenu">Introducció</string>
 
-    <string name="app_description">Engine Driver - Un Controlador per al teu telèfon Android. Aquesta aplicació permet connectar a servidors Withrottle com el JMRI, MRC o Digitrax, i tripular les teves Locomotores. La velocitat, la direcció, i més de 29 funcions DCC estan suportades per a una o dues Locomotores</string>
+    <string name="app_description">Engine Speed Matcher - Un Controlador per al teu telèfon Android. Aquesta aplicació permet connectar a servidors Withrottle com el JMRI, MRC o Digitrax, i tripular les teves Locomotores. La velocitat, la direcció, i més de 29 funcions DCC estan suportades per a una o dues Locomotores</string>
     <string name="app_name_intro">Introducció</string>
     <string name="app_name_connect">Connectar al servidor</string>
     <string name="app_name_throttle">Controlador</string>
@@ -43,8 +43,8 @@
     <string name="gamepad1_test">Prova 1 de gamepad</string>
     <string name="gamepad2_test">Prova 2 de gamepad</string>
     <string name="gamepad3_test">Prova 3 de gamepad</string>
-    <string name="notification_title">Engine Driver està en execució</string>
-    <string name="notification_text">Prémer per reobrir Engine Driver</string>
+    <string name="notification_title">Engine Speed Matcher està en execució</string>
+    <string name="notification_text">Prémer per reobrir Engine Speed Matcher</string>
     <string name="host_ip">Nom del Host o Adreça</string>
     <string name="port">Port</string>
     <string name="loco_address">Adreça de Locomotora</string>
@@ -121,12 +121,12 @@
     <string name="volume_indicator">v</string>
     <string name="yes">Si</string>
     <string name="no">No</string>
-    <string name="exit_text">Sortir de l\'Engine Driver?</string>
+    <string name="exit_text">Sortir de l\'Engine Speed Matcher?</string>
     <string name="exit_title">Sortir</string>
     <string name="steal_text">Agafa l\'adreça %1$s?</string>
     <string name="steal_title">Agafa</string>
     <string name="prefTitle">Preferències</string>
-    <string name="prefSummary">Preferències del Engine Driver</string>
+    <string name="prefSummary">Preferències del Engine Speed Matcher</string>
     <string name="preferences">Preferències</string>
     <string name="prefSwipeUpDownTitle">Desplaça cap amunt-avall les preferències</string>
     <string name="prefSwipeUpDownSummary">Opcions per fer lliscar el dit amunt-avall a la pantalla del Controlador</string>
@@ -419,7 +419,7 @@
     <string name="prefAccelerometerShakeSummary">Opcions per quan es sacseja el dispositiu</string>
 
     <string name="prefAccelerometerShakeThresholdTitle">Llindar de sacseig</string>
-    <string name="prefAccelerometerShakeThresholdSummary">Llindar al qual es registrarà el sacseig. (1.5&#8211;3.5) Un valor més baix respondrà a una acció suau.\nRequereix el reinici del Engine Driver després de canviar-ho per tenir efecte</string>
+    <string name="prefAccelerometerShakeThresholdSummary">Llindar al qual es registrarà el sacseig. (1.5&#8211;3.5) Un valor més baix respondrà a una acció suau.\nRequereix el reinici del Engine Speed Matcher després de canviar-ho per tenir efecte</string>
 
     <string name="functionButton00DefaultValue">Llums</string>
     <string name="functionButton01DefaultValue">Campana</string>
@@ -515,7 +515,7 @@
     <string name="toastSelectLocoConfirmClear">Confirma que vols eliminar totes les Locomotores recents prement la tecla \'Netejar llista\' DE NOU</string>
 
     <!--    Toast messages for the Log Viewer Activity -->
-    <string name="toastSaveLogFile">Inici de sessió iniciat al fitxer %1$s. El registre continuarà fins que surti de l\’aplicació Engine Driver</string>
+    <string name="toastSaveLogFile">Inici de sessió iniciat al fitxer %1$s. El registre continuarà fins que surti de l\’aplicació Engine Speed Matcher</string>
 
     <string name="prefTtsTitle">Resposta de veu</string>
     <string name="prefTtsSummary">Parleu esdeveniments clau</string>
@@ -583,7 +583,7 @@
     <string name="prefLocaleTitle">Localització</string>
     <string name="prefLocaleSummary">Idioma a utilitzar. ADVERTÈNCIA! Es reiniciaran les etiquetes de les tecles de direcció</string>
 <!--
-    <string name="toastPreferencesLocaleChange">Engine Driver es reinicarà al seleccionar l\'Idioma</string>
+    <string name="toastPreferencesLocaleChange">Engine Speed Matcher es reinicarà al seleccionar l\'Idioma</string>
 -->
     <string name="prefDirectionButtonLongPressDelayTitle">Retard de la pressió llarga de la tecla de direcció</string>
     <string name="prefDirectionButtonLongPressDelaySummary">Quants mil·lisegons constitueixen una pulsació llarga per a les tecles de direcció</string>
@@ -702,16 +702,16 @@
     <string name="timerDialogMessage">Contrasenya :</string>
     <string name="timerDialogHint">Reinicia la contrasenya</string>
 
-    <string name="permissionsReadRecentConnections">Engine Driver necessita permisos D\'EMMAGATZEMATGE per llegir connexions recents</string>
-    <string name="permissionsStoreRecentConnections">Engine Driver necessita permisos D\'EMMAGATZEMATGE per emmagatzemar connexions recents</string>
-    <string name="permissionsClearRecentConnections">Engine Driver necessita permisos D\'EMMAGATZEMATGE per esborrar connexions recents</string>
-    <string name="permissionsReadPreferences">Engine Driver necessita permisos D\'EMMAGATZEMATGE per llegir preferències</string>
-    <string name="permissionsStorePreferences">Engine Driver necessita permisos D\'EMMAGATZEMATGE per emmagatzemar preferències</string>
-    <string name="permissionsClearPreferences">Engine Driver necessita permisos D\'EMMAGATZEMATGE per netejar les preferències</string>
-    <string name="permissionsReadPhoneState">Engine Driver necessita els permisos del TELÈFON per aturar les operacions en una trucada</string>
-    <string name="permissionsReadFunctionSettings">Engine Driver necessita permisos D\'EMMAGATZEMATGE per llegir la configuració de la funció</string>
-    <string name="permissionsStoreFunctionSettings">Engine Driver necessita permisos D\'EMMAGATZEMATGE per emmagatzemar la configuració de la funció</string>
-    <string name="permissionsWriteSettings">Engine Driver necessita permisos D\'ESRIPTURA per canviar la brillantor de la pantalla</string>
+    <string name="permissionsReadRecentConnections">Engine Speed Matcher necessita permisos D\'EMMAGATZEMATGE per llegir connexions recents</string>
+    <string name="permissionsStoreRecentConnections">Engine Speed Matcher necessita permisos D\'EMMAGATZEMATGE per emmagatzemar connexions recents</string>
+    <string name="permissionsClearRecentConnections">Engine Speed Matcher necessita permisos D\'EMMAGATZEMATGE per esborrar connexions recents</string>
+    <string name="permissionsReadPreferences">Engine Speed Matcher necessita permisos D\'EMMAGATZEMATGE per llegir preferències</string>
+    <string name="permissionsStorePreferences">Engine Speed Matcher necessita permisos D\'EMMAGATZEMATGE per emmagatzemar preferències</string>
+    <string name="permissionsClearPreferences">Engine Speed Matcher necessita permisos D\'EMMAGATZEMATGE per netejar les preferències</string>
+    <string name="permissionsReadPhoneState">Engine Speed Matcher necessita els permisos del TELÈFON per aturar les operacions en una trucada</string>
+    <string name="permissionsReadFunctionSettings">Engine Speed Matcher necessita permisos D\'EMMAGATZEMATGE per llegir la configuració de la funció</string>
+    <string name="permissionsStoreFunctionSettings">Engine Speed Matcher necessita permisos D\'EMMAGATZEMATGE per emmagatzemar la configuració de la funció</string>
+    <string name="permissionsWriteSettings">Engine Speed Matcher necessita permisos D\'ESRIPTURA per canviar la brillantor de la pantalla</string>
     <string name="permissionsWriteSettingsAdditional">- Fes clic en la tecla per concedir els permisos.\n- Fes clic \'Enrera\' per torna aquí</string>
     <string name="permissionsWriteSettingsAdditional2">Ignora-ho si no necessites que el Engine Driver modifiqui la brillantor de la pantalla del teu dispositiu</string>
     <string name="permissionsACCESS_FINE_LOCATION">Engine Driver necessita permisos GEOLOCALITZACIO per obtenir informació de la connexó wifi SSID</string>

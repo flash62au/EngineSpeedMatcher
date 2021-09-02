@@ -183,7 +183,7 @@
 
     <string-array name="prefLocaleEntries">  <!-- display version -->
         <item>Usar a configuração global do telefone</item>
-        <item>Inglês (EUA) - padrão do Engine Driver</item>
+        <item>Inglês (EUA) - padrão do Engine Speed Matcher</item>
         <item>Italiano</item>
         <item>Português</item>
         <item>Alemão</item>

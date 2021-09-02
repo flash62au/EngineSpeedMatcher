@@ -19,7 +19,6 @@ Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
 package jmri.enginespeedmatcher;
 
 // Main java file.
-/* TODO: see changelog-and-todo-list.txt for complete list of project to-do's */
 
 import static android.content.res.Configuration.ORIENTATION_PORTRAIT;
 

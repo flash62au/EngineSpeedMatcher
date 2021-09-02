@@ -166,7 +166,7 @@
     </string-array>
     <string-array name="prefLocaleEntries">  <!-- display version -->
         <item>Benutze globale Einstellungen des Telefons</item>
-        <item>English (USA) - Engine Driver\'s Standard</item>
+        <item>English (USA) - Engine Speed Matcher\'s Standard</item>
         <item>Italienisch</item>
         <item>Portugiesisch</item>
         <item>Deutsch</item>
